@@ -11,7 +11,7 @@ Selvstendig statisk nettside med HTML, CSS og JavaScript. Ingen installasjon, by
 6. Legg til nnfkonferansen.no i Netlify og bruk DNS-verdiene Netlify oppgir. Kontroller HTTPS før domenet tas i bruk.
 
 ## Før publisering
-- Lotteritekst mangler; siden sier at detaljer ikke er tilgjengelige.
+- Lotteriteksten er lagt inn. Premieoversikten legges til når den er klar.
 - Måltidstidene er oppdatert etter arrangørens opplysninger 9. oktober 2026.
 - Avklar hvem som følger opp spørsmål, tilgang og rutine for sletting. Skjemaet ber om navn og spørsmål, men ikke e-post. Tjenesteleverandøren kan behandle tekniske data; nettsiden lover derfor ikke full anonymitet.
 - Fullfør en reell test av skjemamottaket før siden deles med deltakerne.
@@ -45,3 +45,6 @@ LAST OPP I HOVEDMAPPEN på GitHub (roten av repositoryet), som Netlify nå publi
 
 ## Oppdatert Sofaprat
 Panelet er Jan Bøhler, Åsmund Steine (assisterende fengselsleder ved Ungdomsenheten, Bjørgvin fengsel) og Morten Haldorsen (tingrettsdommer ved Hordaland tingrett). Øystein Samsonsen er bekreftet som samtaleleder. Originalens temabeskrivelse og bilde er beholdt; bildet viser ikke hele det nye panelet. Ingen nye portretter er lagt til.
+
+## Lotteri – siste oppdatering
+Godkjent lotteritekst er lagt inn: overskuddet går til et lokalt forebyggende prosjekt, loddsalg i Bry deg-butikken og hos lokallagene på konferansen, og vinnerannonsering på banketten lørdag. Premieoversikten kommer senere. Pakken inneholder hele nettsiden med alle tidligere rettelser.
