@@ -12,7 +12,7 @@ Selvstendig statisk nettside med HTML, CSS og JavaScript. Ingen installasjon, by
 
 ## Før publisering
 - Lotteritekst mangler; siden sier at detaljer ikke er tilgjengelige.
-- Middag fredag og bankett lørdag har ikke klokkeslett. Legg dem inn når de er bekreftet.
+- Måltidstidene er oppdatert etter arrangørens opplysninger 9. oktober 2026.
 - Avklar hvem som følger opp spørsmål, tilgang og rutine for sletting. Skjemaet ber om navn og spørsmål, men ikke e-post. Tjenesteleverandøren kan behandle tekniske data; nettsiden lover derfor ikke full anonymitet.
 - Fullfør en reell test av skjemamottaket før siden deles med deltakerne.
 
@@ -37,3 +37,11 @@ Alle programpunkter er tilgjengelige uten JavaScript. JavaScript hindrer innsend
 ## Revisjon 2
 Forsiden har hotellbilde, kort velkomst og sju blå menyknapper. Toppmenyen er kun på undersidene. Footer er fjernet. Spørreskjemaet har navn og spørsmål, uten valg av foredrag. Praktisk informasjon samler frokost, lunsj og pauseservering under Andre måltider. Frokost 07:30–10:30 er bekreftet av arrangøren.
 Erstatt de eksisterende filene i samme GitHub-mappe, inkludert assets/app.js og assets/style.css. Ikke legg revisjonen i en ny undermappe. Netlify publiserer ved neste deploy. Kontroller at skjemamottaket registrerer feltet navn etter publisering.
+
+## Siste revisjon – 9. oktober 2026
+Fredagslunsj 13:00 i praktisk informasjon; fredagsmiddag 19:30 og lørdagsbankett 19:00 både i praktisk informasjon og dagsprogram. Jan Bøhler er rettet i omtale og søndagsprogram. Spørreknappene under foredragene er fjernet; hovedmenyen og selve spørreskjemaet er beholdt.
+
+LAST OPP I HOVEDMAPPEN på GitHub (roten av repositoryet), som Netlify nå publiserer fra. Erstatt eksisterende filer; ikke last opp ZIP eller en ny undermappe.
+
+## Oppdatert Sofaprat
+Panelet er Jan Bøhler, Åsmund Steine (assisterende fengselsleder ved Ungdomsenheten, Bjørgvin fengsel) og Morten Haldorsen (tingrettsdommer ved Hordaland tingrett). Øystein Samsonsen er bekreftet som samtaleleder. Originalens temabeskrivelse og bilde er beholdt; bildet viser ikke hele det nye panelet. Ingen nye portretter er lagt til.
